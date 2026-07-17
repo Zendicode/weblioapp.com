@@ -1,0 +1,6 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">WeblioApp logo</title>
+  <desc id="logoDesc">Rounded square icon with an abstract W shape in green and white.</desc>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="#22C46D"/>
+  <path d="M26 36L42 92H55L64 60L73 92H86L102 36H88L79 71L70 36H58L49 71L40 36H26Z" fill="white"/>
+</svg>
